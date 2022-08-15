@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 🤩
 - 🌱 I’m currently learning web devlopment 🤗
 - 💞️ I’m looking to collaborate on web 😍
-- 📫 You can reach me through twitter -> @pd_sawain ✌️
+- 📫 You can reach me through twitter -> @pd_swain ✌️
 
 <!---
 Pd-Swain/Pd-Swain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
